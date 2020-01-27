@@ -47,11 +47,11 @@ git clone https://github.com/valmircsjr/ApiAluno.git
 
 ### EndPoints <a name="id3"></a>
 
-GET http://localhost:8000/aluno - Lista todos os alunos cadastrados.
-POST http://localhost:8000/aluno - Cadastra um aluno, passando um json no Body no formato ({"name" : "nome", "idade":"idade"}).
-GET http://localhost:8000/aluno/{ID} - Lists um aluno por meio do ID.
-PUT http://localhost:8000/aluno/{ID} - Atualiza um aluno com base no ID, passando um json no Body no formato ({"name" : "novo", "idade":"idade"}). Os campos nao podem ser null.
-DELETE http://localhost:8000/aluno/{ID} - Deleta um aluno com base no ID.
+* GET http://localhost:8000/aluno - Lista todos os alunos cadastrados.
+* POST http://localhost:8000/aluno - Cadastra um aluno, passando um json no Body no formato ({"name" : "nome", "idade":"idade"}).
+* GET http://localhost:8000/aluno/{ID} - Lists um aluno por meio do ID.
+* PUT http://localhost:8000/aluno/{ID} - Atualiza um aluno com base no ID, passando um json no Body no formato ({"name" : "novo", "idade":"idade"}). Os campos nao podem ser null.
+* DELETE http://localhost:8000/aluno/{ID} - Deleta um aluno com base no ID.
 
 ---
 
