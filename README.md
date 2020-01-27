@@ -34,7 +34,7 @@ git clone https://github.com/valmircsjr/ApiAluno.git
 
 4. Execute o deploy da aplicação.
 
-5. Após isso, pode consumir a API em standalone.
+5. Após isso, é possivel consumir a API em http://localhost:8000/aluno.
 
 ### Observações <a name="id4"></a>
-Realizei os testei da API com o POSTMAN, por causa do tempo escasso. Mais tarde irei concluir os testes com algumas das tecnologias definidas (SOAPUI, Swagger, Teste Unitário(JUnit))
+Realizei os testes da API com o POSTMAN, por causa do tempo escasso. Mais tarde irei concluir os testes com algumas das tecnologias definidas (SOAPUI, Swagger, Teste Unitário(JUnit))
